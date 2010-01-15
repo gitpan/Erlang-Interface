@@ -1,10 +1,10 @@
 --- #YAML:1.0
 name:               Erlang-Interface
-version:            0.01
-abstract:           Perl extension for blah blah blah
+version:            0.02
+abstract:           Erlang Interface
 author:
     - Tsukasa Hamano <hamano@cpan.org>
-license:            unknown
+license:            perl
 distribution_type:  module
 configure_requires:
     ExtUtils::MakeMaker:  0
