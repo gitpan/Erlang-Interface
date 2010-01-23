@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               Erlang-Interface
-version:            0.02
-abstract:           Erlang Interface
+version:            0.03
+abstract:           Perl interface for erl_interface
 author:
     - Tsukasa Hamano <hamano@cpan.org>
 license:            perl
